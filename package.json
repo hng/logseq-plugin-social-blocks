@@ -1,0 +1,11 @@
+{
+  "name": "logseq-plugin-social-blocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Henning Schumann",
+  "license": "MIT",
+  "logseq": {
+    "id": "_vbtrjshit",
+    "title": "Social Blocks"
+  }
+}
